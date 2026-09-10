@@ -31,7 +31,7 @@ button.addEventListener("click", () => {
     page.classList.add("active");
 
     setTimeout(() => {
-        window.location.href = "../Second/birthday.html";
+        window.location.href = "Components/Second/birthday.html";
     }, 2200);
 });
 
