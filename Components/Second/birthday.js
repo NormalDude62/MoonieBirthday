@@ -117,7 +117,7 @@ if (page && chaosButton) {
             worldText.textContent =
                 "The world is no longer as peaceful as it was.";
 
-            characters.textContent = "THE FORSAKEN";
+            characters.textContent = "THE WORLD";
 
 
             favouriteText.textContent =
